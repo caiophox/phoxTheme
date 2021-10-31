@@ -1,13 +1,12 @@
+![Banner for Phox Publishings](images/BannerpubPhox.svg)
 # README
-## This is the README for your extension "phoxtheme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### This theme was made with the intention to provide a cohesive dark environment for coding
+**Rules that I followed:**
+* No borders;
+* One main color `#252422` for the UI, used everywhere it was possible without making it confusing;
+* The darkest color `#1f1f1e` only appears in thin accents;
+* One main orange color `#ba5624` to highlight actions that change what you are doing (coding to debugging to opening a menu);
+* One offwhite color `#b7b3a1` for displaying text throughout the theme;
+* Consistent colors for similar things;
 
 **Enjoy!**

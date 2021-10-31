@@ -3,19 +3,7 @@
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
-      /*
-      #252422 color for coding. Largest area.
-      #1f1f1e color to make panels out of, second largest area, when opening.
-      #1c1c1b darkest, accent color for thin backgrounds and highlighting.
-      #403D39 UI dim
-      #b7b3a1 Normal Text
-      #bebaaa Bright text
-      #ba5624 dropborders and borders
-      #9a031e ERROR
-      #0f4c5c INFO
-      #fb8b24 WARNING
-      */
-
+     
       // Base Colors
       "foreground": "#b7b3a1",
       "widget.shadow": "#1c1c1b",
@@ -153,7 +141,7 @@
 
       // Badges
       "badge.background": "#ba5624",
-      "badge.foreground": "#bebaaa",
+      "badge.foreground": "#b7b3a1",
 
       // Dropdown menus
       "dropdown.background": "#1f1f1e",
@@ -602,39 +590,39 @@
 
 
 
-"symbolIcon.arrayForeground": "#ff0000",
-"symbolIcon.booleanForeground": "#ff0000",
-"symbolIcon.classForeground": "#ff0000",
-"symbolIcon.colorForeground": "#ff0000",
-"symbolIcon.constantForeground": "#ff0000",
-"symbolIcon.constructorForeground": "#ff0000",
-"symbolIcon.enumeratorForeground": "#ff0000",
-"symbolIcon.enumeratorMemberForeground": "#ff0000",
-"symbolIcon.eventForeground": "#ff0000",
-"symbolIcon.fieldForeground": "#ff0000",
-"symbolIcon.fileForeground": "#ff0000",
-"symbolIcon.folderForeground": "#ff0000",
-"symbolIcon.functionForeground": "#ff0000",
-"symbolIcon.interfaceForeground": "#ff0000",
-"symbolIcon.keyForeground": "#ff0000",
-"symbolIcon.keywordForeground": "#ff0000",
-"symbolIcon.methodForeground": "#ff0000",
-"symbolIcon.moduleForeground": "#ff0000",
-"symbolIcon.namespaceForeground": "#ff0000",
-"symbolIcon.nullForeground": "#ff0000",
-"symbolIcon.numberForeground": "#ff0000",
-"symbolIcon.objectForeground": "#ff0000",
-"symbolIcon.operatorForeground": "#ff0000",
-"symbolIcon.packageForeground": "#ff0000",
-"symbolIcon.propertyForeground": "#ff0000",
-"symbolIcon.referenceForeground": "#ff0000",
-"symbolIcon.snippetForeground": "#ff0000",
-"symbolIcon.stringForeground": "#ff0000",
-"symbolIcon.structForeground": "#ff0000",
-"symbolIcon.textForeground": "#ff0000",
-"symbolIcon.typeParameterForeground": "#ff0000",
-"symbolIcon.unitForeground": "#ff0000",
-"symbolIcon.variableForeground": "#ff0000",
+"symbolIcon.arrayForeground": "#b7b3a1",
+"symbolIcon.booleanForeground": "#b7b3a1",
+"symbolIcon.classForeground": "#b7b3a1",
+"symbolIcon.colorForeground": "#b7b3a1",
+"symbolIcon.constantForeground": "#b7b3a1",
+"symbolIcon.constructorForeground": "#b7b3a1",
+"symbolIcon.enumeratorForeground": "#b7b3a1",
+"symbolIcon.enumeratorMemberForeground": "#b7b3a1",
+"symbolIcon.eventForeground": "#b7b3a1",
+"symbolIcon.fieldForeground": "#b7b3a1",
+"symbolIcon.fileForeground": "#b7b3a1",
+"symbolIcon.folderForeground": "#b7b3a1",
+"symbolIcon.functionForeground": "#b7b3a1",
+"symbolIcon.interfaceForeground": "#b7b3a1",
+"symbolIcon.keyForeground": "#b7b3a1",
+"symbolIcon.keywordForeground": "#b7b3a1",
+"symbolIcon.methodForeground": "#b7b3a1",
+"symbolIcon.moduleForeground": "#b7b3a1",
+"symbolIcon.namespaceForeground": "#b7b3a1",
+"symbolIcon.nullForeground": "#b7b3a1",
+"symbolIcon.numberForeground": "#b7b3a1",
+"symbolIcon.objectForeground": "#b7b3a1",
+"symbolIcon.operatorForeground": "#b7b3a1",
+"symbolIcon.packageForeground": "#b7b3a1",
+"symbolIcon.propertyForeground": "#b7b3a1",
+"symbolIcon.referenceForeground": "#b7b3a1",
+"symbolIcon.snippetForeground": "#b7b3a1",
+"symbolIcon.stringForeground": "#b7b3a1",
+"symbolIcon.structForeground": "#b7b3a1",
+"symbolIcon.textForeground": "#b7b3a1",
+"symbolIcon.typeParameterForeground": "#b7b3a1",
+"symbolIcon.unitForeground": "#b7b3a1",
+"symbolIcon.variableForeground": "#b7b3a1",
 
 
 
