@@ -8,23 +8,4 @@
 * One off-white color `#b7b3a1` for displaying text throughout the theme;
 * Consistent colors for similar things;
 
-### Coding colors
-Strings
-Punctuation
-Variables
-Functions
-Operators
-
-Blues
-Whites
-Greens
-Yellows
-Pinks
-Reds
-
-Light
-Dark
-Pastel
-
-
 **Enjoy!**

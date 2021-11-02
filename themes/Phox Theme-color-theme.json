@@ -198,6 +198,7 @@
       "list.inactiveSelectionBackground": "#403D39",
       "list.inactiveSelectionForeground": "#252422",
       "list.inactiveSelectionIconForeground": "#252422",
+      "list.dropBackground": "#ba562480",
 
       // Minimap
       "minimap.background": "#252422",
@@ -242,6 +243,7 @@
       "panel.border": "#ba562400",
       "panelSectionHeader.border": "#ba562400",
       "panelSection.border": "#ba562400",
+      "panel.dropBorder": "#ba562480",
 
       // Terminal
       "terminal.background": "#252422",
@@ -570,7 +572,7 @@
 
 
 
-      "panel.dropBorder": "#00ffdd",
+
       "panelInput.border": "#00aeff",
       "settings.dropdownListBorder": "#00e1ff",
 
@@ -743,7 +745,7 @@
       "interactive.inactiveCodeBorder": "#00eeff",
 
       "list.deemphasizedForeground": "#ff00f2",
-      "list.dropBackground": "#ee0ad0",
+
       "list.errorForeground": "#9a031e",
       "list.focusHighlightForeground": "#d400ff",
       "list.invalidItemForeground": "#e907de",
