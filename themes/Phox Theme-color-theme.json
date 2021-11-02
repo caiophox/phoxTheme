@@ -459,6 +459,8 @@
       "editor.snippetTabstopHighlightBorder": "#ba562400",
       "editor.snippetFinalTabstopHighlightBackground": "#b7b3a120",
       "editor.snippetFinalTabstopHighlightBorder": "#403D39",
+      "editorUnnecessaryCode.border": "#fb8c246e",
+      "editorUnnecessaryCode.opacity": "#ffffffb7",
       
       // Peek
       "peekViewResult.lineForeground": "#b7b3a1",
@@ -647,7 +649,7 @@
 
 
 
-      "editorLightBulb.foreground": "#ba5624",
+      "editorLightBulb.foreground": "#ba9e24",
       "editorLightBulbAutoFix.foreground": "#ba5624",
 
       "editor.hoverHighlightBackground": "#b7b3a142",
@@ -771,13 +773,13 @@
 
 
       "editorCodeLens.foreground": "#7b5dfd",
-      "editorCursor.background": "#ff00ea",
+      "editorCursor.background": "#00f7ff",
 
       "editorGhostText.border": "#e5ff00",
       "editorGhostText.foreground": "#00ccff",
       
       "editorHint.border": "#eeff00",
-      "editorHint.foreground": "#b700ff",
+      "editorHint.foreground": "#73ff00",
 
 
       "editorInfo.background": "#0f4c5c00",
@@ -787,15 +789,14 @@
       "editorInlayHint.parameterBackground": "#4400ff",
       "editorInlayHint.parameterForeground": "#00a2ff",
       "editorInlayHint.typeBackground": "#d0ff00",
-      "editorInlayHint.typeForeground": "#ea00ff",
+      "editorInlayHint.typeForeground": "#0099ff",
 
 
-      "editorUnnecessaryCode.border": "#ff00f2",
-      "editorUnnecessaryCode.opacity": "#00ffff",
-      "editorWarning.background": "#fb8b24",
-      "editorWarning.border": "#fb8b24",
 
-      "editor.focusedStackFrameHighlightBackground": "#1100ff",
+      "editorWarning.background": "#fb8b2420",
+      "editorWarning.border": "#fb8b2400",
+
+      "editor.focusedStackFrameHighlightBackground": "#C80000",
 
 
       "editor.inlineValuesBackground": "#00b7ff",
@@ -865,7 +866,8 @@
         }
       },
       {"scope": [
-        "storage.type.function"
+        "storage.type.function",
+        "keyword.control.flow"
         ],
         "settings": {
           "foreground": "#9d3022",
@@ -932,6 +934,14 @@
         "settings": {
           "foreground": "#9d2222",
           "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": [
+          "support.type.property-name"
+        ],
+        "settings": {
+          "foreground": "#ba5624",
         }
       },
 

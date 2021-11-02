@@ -1,8 +1,25 @@
 {
-    "name": "phoxtheme",
+    "name": "phoxtheme-darker",
     "displayName": "Phox Theme",
     "description": "Personal color theme focused on UX!",
     "version": "0.0.1",
+    "publisher": "PhoxPublishings",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/caiophox/phoxTheme"
+    },
+    "galleryBanner": {
+        "theme": "dark",
+        "color": "#252422"
+    },
+    "icon": "images/Logo-Phox.png",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "phox theme",
+        "phox",
+        "phoxtheme"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },

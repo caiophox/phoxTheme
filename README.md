@@ -1,4 +1,4 @@
-![Banner for Phox Publishings](images/BannerpubPhox.svg)
+![Banner for Phox Publishings](https://i.imgur.com/7YwkdUT.png)
 ### This theme was made with the intention to provide a cohesive dark environment for coding
 **Rules that I followed:**
 * No borders;
