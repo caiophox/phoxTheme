@@ -40,13 +40,13 @@
 
       // Welcome Page
       "welcomePage.background": "#252422",
-      "welcomePage.buttonBackground": "#403D39",
-      "welcomePage.buttonHoverBackground": "#252422",
+      "welcomePage.tileShadow": "#1c1c1b",
+      // "welcomePage.buttonBackground": "#403D39",
+      // "welcomePage.buttonHoverBackground": "#252422",
       "welcomePage.progress.background": "#1f1f1e",
       "welcomePage.progress.foreground": "#ba5624",
       "welcomePage.tileBackground": "#403D39",
       "welcomePage.tileHoverBackground": "#252422",
-      "welcomePage.tileShadow.": "#1c1c1b",
 
       // Settings
       "settings.checkboxBorder": "#ba562400",
@@ -166,6 +166,8 @@
       "keybindingLabel.bottomBorder": "#ba5624",
       "keybindingLabel.foreground": "#b7b3a1",
       "keybindingLabel.border": "#ba562400",
+      "keybindingTable.headerBackground": "#b7b3a140",
+      "keybindingTable.rowsBackground": "#403D3940",
 
       // Buttons and checkboxes
       "button.background": "#403D39",
@@ -184,6 +186,7 @@
       "extensionButton.prominentHoverBackground": "#ba5624",
       "extensionButton.prominentForeground": "#b7b3a1",
       "extensionIcon.starForeground": "#ba5624",
+      "extensionIcon.verifiedForeground": "#ba5624",
 
       // Lists
       "list.filterMatchBackground": "#b7b3a130",
@@ -347,14 +350,26 @@
       "debugTokenExpression.number": "#227a9d",
       "debugTokenExpression.string": "#b7b3a1",
       "debugTokenExpression.value": "#227a9d",
-     
+      
       // Brackets
-      "editorBracketHighlight.foreground1": "#90be6d",
-      "editorBracketHighlight.foreground2": "#43aa8b",
-      "editorBracketHighlight.foreground3": "#577590",
-      "editorBracketHighlight.foreground4": "#f94144",
-      "editorBracketHighlight.foreground5": "#f3722c",
-      "editorBracketHighlight.foreground6": "#f9c74f",
+      "editorBracketHighlight.foreground1": "#E76F51",
+      "editorBracketHighlight.foreground2": "#EE8959",
+      "editorBracketHighlight.foreground3": "#E9C46A",
+      "editorBracketHighlight.foreground4": "#8AB17D",
+      "editorBracketHighlight.foreground5": "#2A9D8F",
+      "editorBracketHighlight.foreground6": "#287271",
+      "editorBracketPairGuide.activeBackground1": "#E76F51",
+      "editorBracketPairGuide.activeBackground2": "#EE8959",
+      "editorBracketPairGuide.activeBackground3": "#E9C46A",
+      "editorBracketPairGuide.activeBackground4": "#8AB17D",
+      "editorBracketPairGuide.activeBackground5": "#2A9D8F",
+      "editorBracketPairGuide.activeBackground6": "#287271",
+      "editorBracketPairGuide.background1": "#E76F51",
+      "editorBracketPairGuide.background2": "#EE8959",
+      "editorBracketPairGuide.background3": "#E9C46A",
+      "editorBracketPairGuide.background4": "#8AB17D",
+      "editorBracketPairGuide.background5": "#2A9D8F",
+      "editorBracketPairGuide.background6": "#287271",
       "editorBracketHighlight.unexpectedBracket.foreground": "#9a031e",
 
       // Symbols
@@ -455,8 +470,8 @@
       "editorBracketMatch.background": "#b7b3a120",
       "editorBracketMatch.border": "#ba562400",
       "editorHoverWidget.statusBarBackground": "#1f1f1e",
-      "editorHoverWidget.border": "#ba562400",
-      "editorHoverWidget.background": "#403D39",
+      "editorHoverWidget.border": "#b7b3a180",
+      "editorHoverWidget.background": "#252422",
       "editorHoverWidget.foreground": "#b7b3a1",
       "editor.wordHighlightBorder": "#ba562400",
       "editor.wordHighlightBackground": "#b7b3a120",
@@ -635,9 +650,7 @@
 
 
 
-
-
-
+"editorHoverWidget.highlightForeground": "#ff0000",
 
 
 
@@ -659,8 +672,10 @@
       "searchEditor.findMatchBorder": "#51ff00",
       "searchEditor.textInputBorder": "#3411fc",
 
-      "sideBySideEditor.border": "#09ff00",
-
+      // "sideBySideEditor.border": "#09ff00",
+      
+"sideBySideEditor.horizontalBorder": "#ba562440",
+"sideBySideEditor.verticalBorder": "#ba562440",
 
 
       "editorLink.activeForeground": "#848872",
@@ -724,6 +739,7 @@
 
       "extensionBadge.remoteBackground": "#1900ff",
       "extensionBadge.remoteForeground": "#00aeff",
+      
 
 
 
