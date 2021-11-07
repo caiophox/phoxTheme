@@ -910,7 +910,9 @@
         "scope": [
           "keyword.operator.logical",
           "keyword.operator.arithmetic",
-          "keyword.operator"
+          "keyword.operator",
+          "keyword.operator.assignment.compound",
+          "punctuation.accessor"
         ],
         "settings": {
           "foreground": "#813232",
