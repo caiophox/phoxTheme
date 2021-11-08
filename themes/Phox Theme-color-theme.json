@@ -313,6 +313,8 @@
       "diffEditor.border": "#48ff00",
       "diffEditor.insertedTextBorder": "#43aa8b00",
       "diffEditor.removedTextBorder": "#f9414400",
+      "sideBySideEditor.horizontalBorder": "#ba562440",
+      "sideBySideEditor.verticalBorder": "#ba562440",
      
       // Debug
       "debugToolBar.background": "#403D39",
@@ -473,6 +475,7 @@
       "editorHoverWidget.border": "#b7b3a180",
       "editorHoverWidget.background": "#252422",
       "editorHoverWidget.foreground": "#b7b3a1",
+      "editorHoverWidget.highlightForeground": "#ba5624",
       "editor.wordHighlightBorder": "#ba562400",
       "editor.wordHighlightBackground": "#b7b3a120",
       "editor.wordHighlightStrongBorder": "#ba562400",
@@ -650,7 +653,7 @@
 
 
 
-"editorHoverWidget.highlightForeground": "#ff0000",
+
 
 
 
@@ -674,8 +677,7 @@
 
       // "sideBySideEditor.border": "#09ff00",
       
-"sideBySideEditor.horizontalBorder": "#ba562440",
-"sideBySideEditor.verticalBorder": "#ba562440",
+
 
 
       "editorLink.activeForeground": "#848872",
@@ -806,10 +808,6 @@
 
 
     },
-
-// Light for 
-// Dark for Operators and Const/Let
-// Pastel for punctuation
 
     "tokenColors": [
       {
