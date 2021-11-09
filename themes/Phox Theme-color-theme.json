@@ -954,7 +954,8 @@
       },
       {
         "scope": [
-          "support.type.property-name"
+          "support.type.property-name",
+          "meta.object-literal.key"
         ],
         "settings": {
           "foreground": "#9e6b31",
