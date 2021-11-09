@@ -396,11 +396,11 @@
       "symbolIcon.folderForeground": "#b8a44f",
       "symbolIcon.interfaceForeground": "#b7b3a1",
       "symbolIcon.keyForeground": "#b7b3a1",
-      "symbolIcon.methodForeground": "#b7b3a1",
+      "symbolIcon.methodForeground": "#5bb358",
       "symbolIcon.moduleForeground": "#b7b3a1",
       "symbolIcon.namespaceForeground": "#b7b3a1",
       "symbolIcon.nullForeground": "#b7b3a1",
-      "symbolIcon.objectForeground": "#b7b3a1",
+      "symbolIcon.objectForeground": "#5bb358",
       "symbolIcon.packageForeground": "#b7b3a1",
       "symbolIcon.propertyForeground": "#b7b3a1",
       "symbolIcon.referenceForeground": "#b7b3a1",
@@ -675,14 +675,9 @@
       "searchEditor.findMatchBorder": "#51ff00",
       "searchEditor.textInputBorder": "#3411fc",
 
-      // "sideBySideEditor.border": "#09ff00",
-      
-
 
 
       "editorLink.activeForeground": "#848872",
-
-
 
 
 
@@ -845,16 +840,29 @@
         ],
         "settings": {
           "foreground": "#385d99",
-          "fontStyle": "italic bold"
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": [
+          "variable.other.property",
+          "variable.other.object",
+          "meta.object-literal.key",
+        ],
+        "settings": {
+          "foreground": "#68a166",
+          "fontStyle": "italic"
         }
       },
       {
         "scope": [
         "variable.other.constant",
-        "variable.other.readwrite"
+        "variable.other.readwrite",
+        "variable.language.this"
         ],
         "settings": {
           "foreground": "#b9aa52",
+          "fontStyle": "italic"
         }
       },
       {
@@ -899,7 +907,6 @@
         ],
         "settings": {
           "foreground": "#508d9c",
-          "fontStyle": "italic"
         }
       },
       {
@@ -933,14 +940,7 @@
           "fontStyle": "bold"
         }
       },
-      {
-        "scope": [
-          "variable.other.object"
-        ],
-        "settings": {
-          "foreground": "#5bb358",
-        }
-      },
+
 
 // html
       {
@@ -955,7 +955,7 @@
       {
         "scope": [
           "support.type.property-name",
-          "meta.object-literal.key"
+          "support.variable.property"
         ],
         "settings": {
           "foreground": "#9e6b31",
@@ -965,7 +965,7 @@
         "scope": [
           "punctuation.definition.tag.begin",
           "punctuation.definition.tag.end",
-          "entity"          
+          // "entity"          
         ],
         "settings": {
           "foreground": "#b9aa52",
