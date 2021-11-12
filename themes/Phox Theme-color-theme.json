@@ -791,7 +791,11 @@
 			}
 		},
 		{
-			"scope": ["keyword.control.conditional", "keyword.control.loop"],
+			"scope": [
+				"keyword.control.conditional",
+				"keyword.control.loop",
+				"keyword.control.switch"
+			],
 			"settings": {
 				"foreground": "#9e3e31",
 				"fontStyle": "bold"
